@@ -1,0 +1,14 @@
+.closeBtn {
+    border-radius: 15px;
+    padding: 0;
+    color: black;
+    display: inline-flex;
+    border: 0;
+}
+
+.closeDiv {
+    position: absolute;
+    top: 5px;
+    right: 7px;
+    display: inline-flex;
+}

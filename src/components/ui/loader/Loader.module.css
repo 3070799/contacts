@@ -1,0 +1,12 @@
+.loader {
+    display: flex;
+    justify-content: center;
+    top: 45%;
+    left: 50%;
+    position: relative;
+}
+
+.spinner {
+    width: 35px;
+    height: 35px;
+}
